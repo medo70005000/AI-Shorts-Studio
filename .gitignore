@@ -1,0 +1,41 @@
+# Environment
+
+.env
+
+# Python
+
+**pycache**/
+*.pyc
+
+# Logs
+
+*.log
+
+# Videos
+
+data/videos/*
+output/videos/*
+
+# Images
+
+data/images/*
+output/images/*
+
+# Audio
+
+data/audio/*
+output/audio/*
+
+# Temporary
+
+tmp/
+temp/
+
+# VS Code
+
+.vscode/
+
+# OS
+
+.DS_Store
+Thumbs.db
